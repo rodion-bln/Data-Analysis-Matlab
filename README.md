@@ -1,4 +1,4 @@
-# Metode numerice TEMA 1 Balaniuc Rodion 315CB
+Balaniuc Rodion
 
 
 ## Task 1 Detecția anomaliilor
